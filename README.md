@@ -1,1 +1,3 @@
 # Plotly_Project
+
+In this project I tested the hypothesis to see if bacteria found in human belly buttons could potentially be used to create a food source as an alternative to beef. I gathered data from a JSON file, worked with JavaScript to analyze that data, and then displayed it on a working website with different charts using Plotly. Using our interactive website the user can select an id from the drop down menu and see three different charts showing that data visually: a bar chart, gauge chart, and bubble chart. This project successfully shows the power of JavaScript to work through data, and the usefulness of Plotly to visualize the results in an interactive way that can make any website more engaging.  
